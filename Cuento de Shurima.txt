@@ -23,3 +23,9 @@ en el momento de que no significaran algo para lograr sus objetivos.
 1-Cassiopeia fue encomendada por su madre a una misión en busca del poder divino que 
 alguna vez fue clave para la supremacía de Shurima, y ella, decidida, le dijo a su madre que 
 le traería tal arma como fuera lugar. Y en caso de fallar, no volvería jamás. 
+
+2- Nuestro joven contrato a Sivir, una famosa mercenaria de Shurima, quien, con su pequeño
+ grupo de mercenarios, se encargarían de guiarla a ella y a sus soldados hacía las ruinas 
+del olvidado imperio, pues no era un misterio que aun debajo de los escombros podía haber riquezas
+ y tesoros inimaginables, pero que pocos se atrevían a atravesar, pues el desierto era inmenso
+ y era más fácil morir en el camino que lograr llegar a tales ruinas.
